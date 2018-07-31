@@ -1,0 +1,5 @@
+= Countbeat Docs
+
+Welcome to the Countbeat documentation.
+
+
